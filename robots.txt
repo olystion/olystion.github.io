@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olystion.github.io/sitemap.html.gz
+Sitemap: https://olystion.github.io/app/sitemap.html.gz
+Sitemap: https://olystion.github.io/assets/sitemap.html.gz
+Sitemap: https://olystion.github.io/css/sitemap.html.gz
+Sitemap: https://olystion.github.io/includes/sitemap.html.gz
+Sitemap: https://olystion.github.io/item/sitemap.html.gz
+Sitemap: https://olystion.github.io/src/sitemap.html.gz
